@@ -9,7 +9,7 @@ Welcome to my GitHub! I'm enthusiastic about building interactive games, designi
 - 🎯 Focused on **Game Development** and **Game Asset Creation**
 - 📱 Published games on the **Google Play Store**
 - 🧠 Currently expanding my knowledge in **Unity**, **C#**, and **mobile game publishing**
-- 💼 Interned at **Arrimu Studio** as a **Software Engineer Intern**
+- 💼 Interned at **Arrimu Studio** as a **Software Engineer **
 - 🌱 Always learning and experimenting with new tools and engines
 
 
